@@ -4,7 +4,7 @@
 ### * [Install Node](https://github.com/yukwanwoo/Raspberry_Pi_Install_Node)
 ### * [Install VPN](#vpn)
 
-# Install Node <a id="vpn"></a>
+# Install VPN <a id="vpn"></a>
 
 
 #### VPN 프로그램은 WireGuard를 사용한다([공식 사이트](https://www.wireguard.com)).
